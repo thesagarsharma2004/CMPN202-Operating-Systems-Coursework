@@ -11,4 +11,4 @@ The system is made up of two machines:
 
 This design is more secure and is modeled after real-world server administration practices.
 ### Architecture Diagram
-![System Architecture](images/Architecture.png)
+![System Architecture](Image/Architecture.png)
